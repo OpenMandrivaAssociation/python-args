@@ -1,6 +1,6 @@
 Name:		python-args
 Version:	0.1.0
-Release:	1
+Release:	2
 Source0:	https://files.pythonhosted.org/packages/source/a/args/args-%{version}.tar.gz
 Summary:	Command Arguments for Humans.
 URL:		https://pypi.org/project/args/
